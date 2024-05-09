@@ -1,0 +1,4 @@
+- python=3.7.7=h81c818b_4
+- tensorflow==2.1.0
+- tensorflow-gpu==2.1.0
+- tensorflow-gpu-estimator==2.1.0
